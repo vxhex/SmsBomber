@@ -1,0 +1,10 @@
+.project
+.metadata
+bin/
+tmp/
+local.properties
+.classpath
+.settings/
+.loadpath
+Thumbs.db
+Desktop.ini
