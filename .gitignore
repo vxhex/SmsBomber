@@ -1,10 +1,9 @@
 .project
 .metadata
 bin/
+gen/
 tmp/
 local.properties
 .classpath
 .settings/
 .loadpath
-Thumbs.db
-Desktop.ini

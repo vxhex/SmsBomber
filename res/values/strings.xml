@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">B-52 SMS Mail Bomber</string>
+    <string name="phone">Phone Numbers</string>
+    <string name="number">Number of Texts</string>
+    <string name="message">Message</string>
+    <string name="send">Bombs away!</string>
+    <string name="contacts">Load from contacts</string>
+
+</resources>
